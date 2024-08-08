@@ -10932,3 +10932,81 @@ Script Stack (0 frames) :
 [2024.08.08-17.37.44:989][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 49.6 sec)
 [2024.08.08-17.37.44:989][931]AssetCheck: New page: Asset Save: aula1_sistema_solar
 [2024.08.08-17.37.44:989][931]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
+[2024.08.08-17.39.19:406][707]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="C:/Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/" -install="C:/Users/ra00340661/Downloads/aula1_sistema_solar.zip"" -nocompile -nocompileuat ]
+[2024.08.08-17.39.19:416][707]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CompileSuccess...
+[2024.08.08-17.39.19:420][707]LogAudio: Display: Chunk sizes for SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: Chunk0=28 bytes, Chunk1-N=256k
+[2024.08.08-17.39.19:446][707]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2024.08.08-17.39.19:457][707]UATHelper: Zip Project Task (Windows (Editor)): Using bundled DotNet SDK version: 6.0.302
+[2024.08.08-17.39.19:545][711]UATHelper: Zip Project Task (Windows (Editor)): Starting AutomationTool...
+[2024.08.08-17.39.19:567][712]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project=C:/Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/ -install=C:/Users/ra00340661/Downloads/aula1_sistema_solar.zip -nocompile -nocompileuat
+[2024.08.08-17.39.19:622][713]UATHelper: Zip Project Task (Windows (Editor)): Initializing script modules...
+[2024.08.08-17.39.19:864][724]UATHelper: Zip Project Task (Windows (Editor)): Total script module initialization time: 0.24 s.
+[2024.08.08-17.39.20:104][743]UATHelper: Zip Project Task (Windows (Editor)): Executing commands...
+[2024.08.08-17.39.20:104][743]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2024.08.08-17.39.20:104][743]UATHelper: Zip Project Task (Windows (Editor)): Project directory: C:\Users\ra00340661\Documents\GitHub\Aula1---Sistema-Solar\aula1_sistema_solar
+[2024.08.08-17.39.20:104][743]UATHelper: Zip Project Task (Windows (Editor)): Install directory: C:/Users/ra00340661/Downloads/aula1_sistema_solar.zip
+[2024.08.08-17.39.20:104][743]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2024.08.08-17.39.22:686][938]LogEditorViewport: Clicking Background
+[2024.08.08-17.39.29:765][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/planetas_materiais/teste_tranlação.teste_tranlação
+[2024.08.08-17.39.29:766][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.08-17.39.29:766][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.08-17.39.32:482][709]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2024.08.08-17.39.32:482][709]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2024.08.08-17.39.32:482][709]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 12s
+[2024.08.08-17.39.32:482][709]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2024.08.08-17.39.38:185][386]LogViewport: Scene viewport resized to 1462x808, mode Windowed.
+[2024.08.08-17.39.46:761][764]LogEditorViewport: Clicking Background
+[2024.08.08-17.39.47:624][827]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.08.08-17.39.47:628][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.08-17.39.47:628][827]PIE: New page: SIE session: aula1_sistema_solar (8 de ago de 2024 11:39:47)
+[2024.08.08-17.39.47:628][827]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_aula1_sistema_solar
+[2024.08.08-17.39.47:630][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001874s)
+[2024.08.08-17.39.47:630][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/aula1_sistema_solar.aula1_sistema_solar to /Game/UEDPIE_0_aula1_sistema_solar.aula1_sistema_solar (0.001904s)
+[2024.08.08-17.39.47:638][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.08.08-17.39.47:641][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.08-17.39.47:641][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.08-17.39.47:641][827]LogAIModule: Creating AISystem for world aula1_sistema_solar
+[2024.08.08-17.39.47:642][827]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2024.08.08-17.39.47:642][827]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2024.08.08-17.39.47:642][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.08-17.39.47:642][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.08-17.39.47:642][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.08-17.39.47:642][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.08-17.39.47:642][827]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.08-17.39.47:642][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.08-17.39.47:642][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.08-17.39.47:642][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.08-17.39.47:642][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.08-17.39.47:642][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.08-17.39.47:642][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.08-17.39.47:644][827]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.08-17.39.47:667][827]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (Realtek(R) Audio)
+[2024.08.08-17.39.47:667][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.08-17.39.47:667][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.08-17.39.47:667][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.08-17.39.47:668][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2024.08.08-17.39.47:668][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2024.08.08-17.39.47:669][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2024.08.08-17.39.47:669][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2024.08.08-17.39.47:669][827]LogInit: FAudioDevice initialized with ID 72.
+[2024.08.08-17.39.47:669][827]LogAudio: Display: Audio Device (ID: 72) registered with world 'aula1_sistema_solar'.
+[2024.08.08-17.39.47:669][827]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 72
+[2024.08.08-17.39.47:672][827]LogLoad: Game class is 'GameModeBase'
+[2024.08.08-17.39.47:673][827]LogWorld: Bringing World /Game/UEDPIE_0_aula1_sistema_solar.aula1_sistema_solar up for play (max tick rate 0) at 2024.08.08-14.39.47
+[2024.08.08-17.39.47:673][827]LogWorld: Bringing up level for play took: 0.001206
+[2024.08.08-17.39.47:675][827]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2024.08.08-17.39.47:675][827]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.08.08-17.39.47:675][827]PIE: Server logged in
+[2024.08.08-17.39.47:676][827]PIE: Play in editor total start time 0,048 seconds.
+[2024.08.08-17.39.55:973][303]LogViewport: Scene viewport resized to 1816x967, mode Windowed.
+[2024.08.08-17.39.55:987][304]LogViewport: Scene viewport resized to 1849x990, mode Windowed.
+[2024.08.08-17.39.56:015][305]LogViewport: Scene viewport resized to 1891x1020, mode Windowed.
+[2024.08.08-17.39.56:046][306]LogViewport: Scene viewport resized to 1914x1036, mode Windowed.
+[2024.08.08-17.39.56:076][307]LogViewport: Scene viewport resized to 1920x1040, mode Windowed.
+[2024.08.08-17.40.10:115][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.08.08-17.40.22:073][856]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.08.08-17.40.34:875][436]LogViewport: Scene viewport resized to 1800x956, mode Windowed.
+[2024.08.08-17.40.34:888][437]LogViewport: Scene viewport resized to 1759x927, mode Windowed.
+[2024.08.08-17.40.34:908][438]LogViewport: Scene viewport resized to 1743x916, mode Windowed.
+[2024.08.08-17.40.34:945][439]LogViewport: Scene viewport resized to 1725x904, mode Windowed.
+[2024.08.08-17.40.34:983][440]LogViewport: Scene viewport resized to 1721x900, mode Windowed.
