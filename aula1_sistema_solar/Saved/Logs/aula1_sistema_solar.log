@@ -2776,3 +2776,997 @@ Would you like to open the Output Log to see more details?
 [2024.08.08-14.55.24:545][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 22.5 sec)
 [2024.08.08-14.55.24:546][210]AssetCheck: New page: Asset Save: aula1_sistema_solar
 [2024.08.08-14.55.24:546][210]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
+[2024.08.08-14.56.04:127][468]LogEditorViewport: Clicking Background
+[2024.08.08-14.56.26:753][684]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/2k_saturn_Mat.2k_saturn_Mat
+[2024.08.08-14.56.26:757][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.08-14.56.26:757][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.08-14.56.26:868][684]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.56.26:868][684]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.56.26:868][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.56.26:868][684]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.56.26:871][684]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.08.08-14.56.26:913][686]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.08.08-14.56.26:913][686]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.56.26:913][686]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.56.26:913][686]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.56.26:913][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.56.26:913][686]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.56.37:073][821]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_3 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_3 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_3 or 2 other object(s)
+[2024.08.08-14.56.37:073][821]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAppendVector'MaterialGraphNode_3.MaterialExpressionAppendVector_0'")'
+[2024.08.08-14.56.37:073][821]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_4 or 2 other object(s)
+[2024.08.08-14.56.37:073][821]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_4.MaterialExpressionConstant_0'")'
+[2024.08.08-14.56.37:073][821]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_5 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_5 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_5 or 2 other object(s)
+[2024.08.08-14.56.37:073][821]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_5.MaterialExpressionConstant_1'")'
+[2024.08.08-14.56.37:079][821]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.56.37:079][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-14.56.37:079][821]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.56.37:104][823]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-14.56.37:104][823]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.56.37:104][823]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-14.56.37:104][823]MaterialEditorStats: Shader Count: 2
+[2024.08.08-14.56.39:214][ 68]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.56.39:214][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-14.56.39:214][ 68]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.56.39:255][ 70]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-14.56.39:255][ 70]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.56.39:255][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-14.56.39:255][ 70]MaterialEditorStats: Shader Count: 2
+[2024.08.08-14.56.42:517][432]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_3 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_3 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_3 or 3 other object(s)
+[2024.08.08-14.56.42:517][432]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAppendVector'MaterialGraphNode_3.MaterialExpressionAppendVector_0'")'
+[2024.08.08-14.56.42:517][432]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_4 or 3 other object(s)
+[2024.08.08-14.56.42:517][432]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_4.MaterialExpressionConstant_0'")'
+[2024.08.08-14.56.42:517][432]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_5 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_5 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_5 or 3 other object(s)
+[2024.08.08-14.56.42:517][432]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_5.MaterialExpressionConstant_1'")'
+[2024.08.08-14.56.42:523][432]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.56.42:523][432]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.56.42:523][432]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.56.42:523][432]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.56.42:545][434]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.08.08-14.56.42:545][434]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.56.42:545][434]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.56.42:545][434]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.56.42:545][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.56.42:545][434]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.56.46:368][859]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.56.46:368][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.56.46:368][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.56.46:368][859]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.56.46:730][899]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-14.56.46:730][899]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.56.46:730][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.56.46:730][899]MaterialEditorStats: Shader Count: 1
+[2024.08.08-14.56.46:930][923]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-14.56.46:930][923]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.56.46:930][923]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.56.46:930][923]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.56.46:930][923]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.56.46:930][923]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.57.50:533][155]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.57.50:533][155]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.57.50:533][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.57.50:533][155]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: ================================================
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Total job queries 4.514, among them cache hits 440 (9.75%)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Tracking 4.063 distinct input hashes that result in 2.862 distinct outputs (70.44%)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: RAM used: 79,16 MiB of 819,20 MiB budget. Usage: 9.66%
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Shaders Compiled: 4.063
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Jobs assigned 4.066, completed 4.063 (99.93%)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Average time worker was idle: 26.83 s
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Time job spent in pending queue: average 108.26 s, longest 259.95 s
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Job execution time: average 6.56 s, max 22.94 s
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Job life time (pending + execution): average 114.89 s, max 267.93
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Shader code size: average 39,934 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 335.40 s
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Jobs were issued in 837 batches (only local compilation was used), average 4.86 jobs/batch
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Average processing rate: 12.11 jobs/sec
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Total thread time: 2.938,303 s
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Total thread preprocess time: 223,267 s
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Percentage time preprocessing: 7.60%
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Effective parallelization: 8.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 8.06 sec, max 14.47 sec, min 2.78 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.78 sec, max 8.53 sec, min 3.51 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.98 sec, max 5.44 sec, min 1.31 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 2.50 sec, max 2.50 sec, min 2.50 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  134 times, average 2.35 sec, max 2.98 sec, min 2.02 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.73% of total time (compiled  134 times, average 2.35 sec, max 2.98 sec, min 2.02 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.24% of total time (compiled   96 times, average 1.60 sec, max 2.51 sec, min 1.07 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.41% of total time (compiled   96 times, average 1.35 sec, max 1.98 sec, min 0.40 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.03% of total time (compiled  128 times, average 0.93 sec, max 1.14 sec, min 0.69 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.03% of total time (compiled  128 times, average 0.92 sec, max 1.64 sec, min 0.31 sec)
+[2024.08.08-14.57.51:234][234]LogShaderCompilers: Display: ================================================
+[2024.08.08-14.57.51:241][235]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-14.57.51:241][235]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.57.51:241][235]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.57.51:241][235]MaterialEditorStats: Shader Count: 1
+[2024.08.08-14.57.51:442][259]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-14.57.51:442][259]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.57.51:442][259]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.57.51:442][259]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.57.51:442][259]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.57.51:442][259]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.57.52:441][369]LogMaterialEditor: Saving and Compiling material 2k_saturn_Mat
+[2024.08.08-14.57.52:497][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.08.08-14.57.53:105][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.08.08-14.57.53:113][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.57.54:786][369]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_saturn_Mat
+[2024.08.08-14.57.54:786][369]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_saturn_Mat9B5440174B9A788FA92B13B4FFD6FC22.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_saturn_Mat.uasset'
+[2024.08.08-14.57.54:791][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.67 sec (total: 24.2 sec)
+[2024.08.08-14.57.54:792][369]AssetCheck: New page: Asset Save: 2k_saturn_Mat
+[2024.08.08-14.57.54:792][369]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/2k_saturn_Mat.2k_saturn_Mat
+[2024.08.08-14.57.54:792][369]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-14.57.54:792][369]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.57.54:793][369]MaterialEditorStats: MaxSampler: 245 instructions
+[2024.08.08-14.57.54:793][369]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.08-14.57.54:793][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.57.54:793][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.57.54:793][369]MaterialEditorStats: Shader Count: 16
+[2024.08.08-14.57.57:574][597]LogEditorViewport: Clicking Background
+[2024.08.08-14.58.13:271][151]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_6 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_6 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_6 or 3 other object(s)
+[2024.08.08-14.58.13:271][151]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_6.MaterialExpressionMultiply_1'")'
+[2024.08.08-14.58.13:271][151]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_7 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_7 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_7 or 3 other object(s)
+[2024.08.08-14.58.13:271][151]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant3Vector'MaterialGraphNode_7.MaterialExpressionConstant3Vector_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2024.08.08-14.58.13:271][151]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_8 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_8 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_8 or 1 other object(s)
+[2024.08.08-14.58.13:271][151]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_8.MaterialExpressionConstant_2'")'
+[2024.08.08-14.58.13:279][151]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.13:279][151]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.13:279][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.13:279][151]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.13:306][153]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-14.58.13:306][153]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.13:306][153]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.13:306][153]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.13:306][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.13:306][153]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.28:726][957]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.28:726][957]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.28:726][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.28:726][957]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.28:767][959]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-14.58.28:767][959]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.28:767][959]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.28:767][959]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.28:767][959]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.28:767][959]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.33:782][520]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.33:782][520]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.33:782][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.33:782][520]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.34:313][576]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-14.58.34:313][576]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.34:313][576]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.34:313][576]MaterialEditorStats: Shader Count: 1
+[2024.08.08-14.58.34:504][599]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.34:504][599]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-14.58.34:504][599]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.34:504][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.34:504][599]MaterialEditorStats: Shader Count: 3
+[2024.08.08-14.58.34:512][600]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-14.58.34:512][600]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.34:512][600]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.34:512][600]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.34:512][600]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.34:512][600]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.46:552][984]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.46:552][984]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.46:552][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.46:553][984]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.46:879][ 18]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-14.58.46:879][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.46:879][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.46:879][ 18]MaterialEditorStats: Shader Count: 1
+[2024.08.08-14.58.47:094][ 43]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-14.58.47:094][ 43]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.47:094][ 43]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.47:094][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.47:094][ 43]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.47:094][ 43]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.47:942][137]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.47:942][137]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.47:942][137]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.47:942][137]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.48:193][163]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-14.58.48:193][163]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.48:193][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.48:193][163]MaterialEditorStats: Shader Count: 1
+[2024.08.08-14.58.48:397][187]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-14.58.48:397][187]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.48:397][187]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.48:397][187]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.48:397][187]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.48:397][187]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.49:249][281]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.49:249][281]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.49:249][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.49:249][281]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.49:298][283]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-14.58.49:298][283]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.49:298][283]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.49:298][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.49:298][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.49:298][283]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.50:202][382]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.50:202][382]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.50:202][382]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.50:202][382]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.50:248][384]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-14.58.50:248][384]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.50:248][384]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.50:248][384]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.50:248][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.50:248][384]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.51:077][476]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.51:077][476]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.51:077][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.51:077][476]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.51:391][510]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-14.58.51:391][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.51:391][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.51:391][510]MaterialEditorStats: Shader Count: 1
+[2024.08.08-14.58.51:600][535]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-14.58.51:600][535]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.51:600][535]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.51:600][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.51:600][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.51:600][535]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.52:958][689]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.52:958][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.52:958][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.52:958][689]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.53:260][722]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-14.58.53:260][722]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.53:260][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.53:260][722]MaterialEditorStats: Shader Count: 1
+[2024.08.08-14.58.53:468][747]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-14.58.53:468][747]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.53:468][747]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.53:468][747]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.53:468][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.53:468][747]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.55:192][941]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.08-14.58.55:199][941]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.58.55:199][941]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.55:199][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.55:199][941]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.58.55:241][943]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-14.58.55:241][943]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.55:241][943]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.58.55:241][943]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.55:241][943]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.55:241][943]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.58.57:273][179]LogMaterialEditor: Saving and Compiling material 2k_saturn_Mat
+[2024.08.08-14.58.57:305][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.08.08-14.58.57:918][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.08.08-14.58.57:926][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.58.59:096][179]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_saturn_Mat
+[2024.08.08-14.58.59:096][179]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_saturn_Mat39079D2444047742BC47348A264721DE.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_saturn_Mat.uasset'
+[2024.08.08-14.58.59:100][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.17 sec (total: 25.3 sec)
+[2024.08.08-14.58.59:101][179]AssetCheck: New page: Asset Save: 2k_saturn_Mat
+[2024.08.08-14.58.59:101][179]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/2k_saturn_Mat.2k_saturn_Mat
+[2024.08.08-14.58.59:102][179]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-14.58.59:102][179]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.58.59:102][179]MaterialEditorStats: MaxSampler: 249 instructions
+[2024.08.08-14.58.59:102][179]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.08-14.58.59:102][179]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.58.59:102][179]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.58.59:102][179]MaterialEditorStats: Shader Count: 16
+[2024.08.08-14.59.02:425][485]LogEditorViewport: Clicking Background
+[2024.08.08-14.59.08:221][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.59.08:329][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.08.08-14.59.08:334][782]LogSavePackage: Moving output files for package: /Game/aula1_sistema_solar
+[2024.08.08-14.59.08:334][782]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/aula1_sistema_solarF723F8E84F44710947B67DA2433B082B.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/aula1_sistema_solar.umap'
+[2024.08.08-14.59.08:339][782]LogFileHelpers: Saving map 'aula1_sistema_solar' took 0.038
+[2024.08.08-14.59.08:345][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 25.5 sec)
+[2024.08.08-14.59.08:346][782]AssetCheck: New page: Asset Save: aula1_sistema_solar
+[2024.08.08-14.59.08:346][782]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
+[2024.08.08-14.59.14:638][148]LogMaterialEditor: Saving and Compiling material 2k_saturn_Mat
+[2024.08.08-14.59.14:689][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.08-14.59.14:870][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.08.08-14.59.14:878][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.59.14:972][148]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_saturn_Mat
+[2024.08.08-14.59.14:972][148]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_saturn_MatE7C9D7BD44837FA602A86891197EE0F7.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_saturn_Mat.uasset'
+[2024.08.08-14.59.14:976][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 25.5 sec)
+[2024.08.08-14.59.14:978][148]AssetCheck: New page: Asset Save: 2k_saturn_Mat
+[2024.08.08-14.59.14:978][148]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/2k_saturn_Mat.2k_saturn_Mat
+[2024.08.08-14.59.16:420][292]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.08.08-14.59.16:420][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-14.59.20:726][775]LogMaterialEditor: Saving and Compiling material saturnoatmosfera
+[2024.08.08-14.59.20:728][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.59.20:789][775]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/saturnoatmosfera
+[2024.08.08-14.59.20:790][775]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/saturnoatmosfera8D604307416C28F316A1B9964D3C1E66.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/saturnoatmosfera.uasset'
+[2024.08.08-14.59.20:797][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 25.6 sec)
+[2024.08.08-14.59.20:797][775]AssetCheck: New page: Asset Save: saturnoatmosfera
+[2024.08.08-14.59.20:798][775]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/saturnoatmosfera.saturnoatmosfera
+[2024.08.08-14.59.21:420][848]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.08.08-14.59.21:420][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-14.59.39:238][776]LogEditorViewport: Clicking Background
+[2024.08.08-14.59.41:588][931]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.08.08-14.59.44:759][ 62]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/2k_uranus_Mat.2k_uranus_Mat
+[2024.08.08-14.59.44:761][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.08-14.59.44:762][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.08-14.59.44:861][ 62]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.59.44:862][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.59.44:862][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.59.44:862][ 62]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.59.44:864][ 62]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.08.08-14.59.44:915][ 64]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.08.08-14.59.44:915][ 64]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.59.44:915][ 64]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.59.44:915][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.59.44:915][ 64]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.59.44:915][ 64]MaterialEditorStats: Shader Count: 4
+[2024.08.08-14.59.58:311][567]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_3 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_3 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_3 or 4 other object(s)
+[2024.08.08-14.59.58:311][567]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAppendVector'MaterialGraphNode_3.MaterialExpressionAppendVector_0'")'
+[2024.08.08-14.59.58:311][567]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_4 or 4 other object(s)
+[2024.08.08-14.59.58:311][567]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_4.MaterialExpressionConstant_0'")'
+[2024.08.08-14.59.58:311][567]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_5 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_5 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_5 or 4 other object(s)
+[2024.08.08-14.59.58:311][567]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_5.MaterialExpressionConstant_1'")'
+[2024.08.08-14.59.58:317][567]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-14.59.58:317][567]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.59.58:317][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.59.58:317][567]MaterialEditorStats: Shader Count: 0
+[2024.08.08-14.59.58:339][569]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.08.08-14.59.58:339][569]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-14.59.58:339][569]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-14.59.58:339][569]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-14.59.58:339][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-14.59.58:339][569]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.00.01:466][922]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.00.01:466][922]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.01:466][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.01:466][922]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.00.01:507][924]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.00.01:507][924]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.00.01:507][924]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.00.01:507][924]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.01:507][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.01:507][924]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.00.35:399][981]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.00.35:399][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.35:399][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.35:399][981]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.00.35:746][ 23]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.00.35:746][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.35:746][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.35:746][ 23]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.00.35:945][ 46]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.00.35:945][ 46]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.00.35:945][ 46]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.00.35:945][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.35:945][ 46]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.35:945][ 46]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.00.36:910][155]LogMaterialEditor: Saving and Compiling material 2k_uranus_Mat
+[2024.08.08-15.00.36:963][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.08.08-15.00.37:464][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.08.08-15.00.37:471][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.00.38:665][155]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_uranus_Mat
+[2024.08.08-15.00.38:665][155]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_uranus_MatB34748BA445300CE92BE46A56416278C.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_uranus_Mat.uasset'
+[2024.08.08-15.00.38:669][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.19 sec (total: 26.8 sec)
+[2024.08.08-15.00.38:669][155]AssetCheck: New page: Asset Save: 2k_uranus_Mat
+[2024.08.08-15.00.38:669][155]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/2k_uranus_Mat.2k_uranus_Mat
+[2024.08.08-15.00.38:672][155]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.00.38:672][155]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.00.38:672][155]MaterialEditorStats: MaxSampler: 245 instructions
+[2024.08.08-15.00.38:672][155]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.08-15.00.38:672][155]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.38:672][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.38:673][155]MaterialEditorStats: Shader Count: 16
+[2024.08.08-15.00.51:964][818]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.00.51:964][818]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.51:964][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.51:964][818]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: ================================================
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Total job queries 4.716, among them cache hits 564 (11.96%)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Tracking 4.141 distinct input hashes that result in 2.907 distinct outputs (70.20%)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: RAM used: 80,93 MiB of 819,20 MiB budget. Usage: 9.88%
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Shaders Compiled: 4.141
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Jobs assigned 4.144, completed 4.141 (99.93%)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Average time worker was idle: 27.37 s
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Time job spent in pending queue: average 106.22 s, longest 259.95 s
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Job execution time: average 6.45 s, max 22.94 s
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Job life time (pending + execution): average 112.74 s, max 267.93
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Shader code size: average 39,925 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 344.73 s
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Jobs were issued in 915 batches (only local compilation was used), average 4.53 jobs/batch
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Average processing rate: 12.01 jobs/sec
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Total thread time: 2.976,355 s
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Total thread preprocess time: 228,271 s
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Percentage time preprocessing: 7.67%
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Effective parallelization: 8.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 8.06 sec, max 14.47 sec, min 2.78 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.78 sec, max 8.53 sec, min 3.51 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.98 sec, max 5.44 sec, min 1.31 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 2.50 sec, max 2.50 sec, min 2.50 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  134 times, average 2.35 sec, max 2.98 sec, min 2.02 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.59% of total time (compiled  134 times, average 2.35 sec, max 2.98 sec, min 2.02 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.17% of total time (compiled   96 times, average 1.60 sec, max 2.51 sec, min 1.07 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.36% of total time (compiled   96 times, average 1.35 sec, max 1.98 sec, min 0.40 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.98% of total time (compiled  128 times, average 0.93 sec, max 1.14 sec, min 0.69 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.98% of total time (compiled  128 times, average 0.92 sec, max 1.64 sec, min 0.31 sec)
+[2024.08.08-15.00.52:229][850]LogShaderCompilers: Display: ================================================
+[2024.08.08-15.00.52:236][851]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.00.52:236][851]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.52:236][851]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.52:236][851]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.00.52:336][863]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.00.52:336][863]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.00.52:336][863]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.52:336][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.52:336][863]MaterialEditorStats: Shader Count: 3
+[2024.08.08-15.00.52:444][876]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.00.52:444][876]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.00.52:444][876]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.00.52:444][876]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.00.52:444][876]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.00.52:444][876]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.03:591][158]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_6 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_6 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_6 or 4 other object(s)
+[2024.08.08-15.01.03:591][158]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_6.MaterialExpressionMultiply_1'")'
+[2024.08.08-15.01.03:591][158]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_7 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_7 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_7 or 4 other object(s)
+[2024.08.08-15.01.03:591][158]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant3Vector'MaterialGraphNode_7.MaterialExpressionConstant3Vector_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2024.08.08-15.01.03:591][158]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_8 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_8 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_8 or 2 other object(s)
+[2024.08.08-15.01.03:591][158]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_8.MaterialExpressionConstant_2'")'
+[2024.08.08-15.01.03:599][158]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.03:599][158]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.03:599][158]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.03:599][158]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.03:625][160]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.01.03:625][160]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.03:625][160]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.03:625][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.03:625][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.03:625][160]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.09:612][847]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.09:612][847]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.09:612][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.09:612][847]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.09:647][849]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.01.09:647][849]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.09:647][849]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.09:647][849]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.09:647][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.09:647][849]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.12:154][102]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.12:154][102]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.12:154][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.12:154][102]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.12:195][104]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.01.12:195][104]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.12:195][104]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.12:195][104]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.12:195][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.12:195][104]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.15:334][458]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.15:334][458]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.15:334][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.15:335][458]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.15:383][460]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.01.15:383][460]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.15:383][460]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.15:383][460]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.15:383][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.15:383][460]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.17:436][700]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.08-15.01.19:313][902]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.19:313][902]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.19:313][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.19:314][902]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.19:761][949]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.19:761][949]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.19:761][949]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.19:761][949]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.19:761][949]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.19:761][949]MaterialEditorStats: Shader Count: 3
+[2024.08.08-15.01.23:409][362]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.23:409][362]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.23:409][362]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.23:409][362]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.23:636][385]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.23:636][385]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.23:636][385]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.23:636][385]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.23:845][410]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.23:845][410]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.23:845][410]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.23:845][410]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.23:845][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.23:845][410]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.25:443][594]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.25:443][594]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.25:443][594]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.25:443][594]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.25:725][624]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.25:725][624]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.25:725][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.25:725][624]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.25:926][648]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.25:926][648]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.25:926][648]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.25:926][648]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.25:926][648]MaterialEditorStats: Shader Count: 3
+[2024.08.08-15.01.26:026][660]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.26:026][660]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.26:026][660]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.26:026][660]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.26:026][660]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.26:026][660]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.26:827][748]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.26:827][748]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.26:827][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.26:827][748]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.27:135][781]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.27:135][781]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.27:135][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.27:135][781]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.27:344][806]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.27:344][806]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.27:344][806]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.27:344][806]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.27:344][806]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.27:344][806]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.27:866][859]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.27:866][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.27:866][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.27:866][859]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.28:108][884]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.28:108][884]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.28:108][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.28:108][884]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.28:308][908]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.28:308][908]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.28:308][908]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.28:308][908]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.28:308][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.28:308][908]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.29:725][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.29:725][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.29:725][ 69]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.29:725][ 69]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.29:966][ 94]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.29:966][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.29:966][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.29:966][ 94]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.30:168][117]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.30:168][117]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.30:168][117]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.30:168][117]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.30:168][117]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.30:169][117]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.31:618][283]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.31:618][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.31:618][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.31:618][283]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.32:031][329]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.32:031][329]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.32:031][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.32:031][329]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.32:131][341]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.32:131][341]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.32:131][341]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.32:131][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.32:131][341]MaterialEditorStats: Shader Count: 3
+[2024.08.08-15.01.32:231][353]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.32:231][353]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.32:231][353]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.32:231][353]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.32:231][353]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.32:231][353]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.32:884][423]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.32:884][423]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.32:884][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.32:884][423]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.33:117][447]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.33:117][447]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.33:117][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.33:117][447]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.33:317][471]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.33:318][471]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.33:318][471]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.33:318][471]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.33:318][471]MaterialEditorStats: Shader Count: 3
+[2024.08.08-15.01.33:418][483]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.33:418][483]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.33:418][483]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.33:418][483]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.33:418][483]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.33:418][483]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.35:375][709]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.35:375][709]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.35:375][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.35:376][709]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.35:423][711]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.35:424][711]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.35:424][711]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.35:424][711]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.35:424][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.35:424][711]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.37:267][924]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.37:268][924]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.37:268][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.37:268][924]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.37:546][954]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.37:546][954]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.37:546][954]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.37:546][954]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.37:746][978]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.37:746][978]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.37:746][978]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.37:746][978]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.37:746][978]MaterialEditorStats: Shader Count: 3
+[2024.08.08-15.01.37:846][990]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.37:846][990]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.37:846][990]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.37:846][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.37:846][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.37:846][990]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.40:402][287]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.40:402][287]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.40:402][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.40:402][287]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.40:834][335]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.40:834][335]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.40:834][335]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.40:834][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.40:834][335]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.01.40:935][347]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.01.40:935][347]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.40:935][347]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.40:935][347]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.40:935][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.40:935][347]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.41:684][428]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.41:684][428]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.41:684][428]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.41:684][428]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.41:928][453]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.41:928][453]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.41:928][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.41:928][453]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.42:127][477]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.01.42:127][477]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.42:127][477]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.42:127][477]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.42:127][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.42:127][477]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.43:525][636]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.43:526][636]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.43:526][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.43:526][636]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.43:574][638]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.01.43:574][638]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.43:574][638]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.43:574][638]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.43:574][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.43:574][638]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.44:935][793]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.44:936][793]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.44:936][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.44:936][793]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.45:339][838]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.45:339][838]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.45:339][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.45:339][838]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.45:544][862]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.01.45:544][862]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.45:544][862]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.45:544][862]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.45:544][862]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.45:544][862]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.48:052][152]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.48:052][152]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.48:052][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.48:052][152]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.48:099][154]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.01.48:099][154]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.48:099][154]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.48:099][154]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.48:099][154]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.48:099][154]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.49:965][367]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.49:965][367]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.49:965][367]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.49:965][367]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.50:223][394]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.01.50:223][394]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.50:223][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.50:223][394]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.01.50:427][416]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.01.50:427][416]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.50:427][416]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.50:427][416]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.50:427][416]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.50:427][416]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.51:377][522]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.08-15.01.51:383][522]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.01.51:383][522]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.51:383][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.51:383][522]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.01.51:427][524]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.01.51:427][524]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.51:427][524]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.01.51:427][524]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.51:427][524]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.51:427][524]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.01.53:023][704]LogMaterialEditor: Saving and Compiling material 2k_uranus_Mat
+[2024.08.08-15.01.53:059][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.08-15.01.53:558][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.08.08-15.01.53:565][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.01.54:782][704]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_uranus_Mat
+[2024.08.08-15.01.54:782][704]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_uranus_Mat0444D4444735CC5E206E8F80BEED48FB.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_uranus_Mat.uasset'
+[2024.08.08-15.01.54:787][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.22 sec (total: 28.0 sec)
+[2024.08.08-15.01.54:787][704]AssetCheck: New page: Asset Save: 2k_uranus_Mat
+[2024.08.08-15.01.54:787][704]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/2k_uranus_Mat.2k_uranus_Mat
+[2024.08.08-15.01.54:791][704]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.01.54:791][704]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.01.54:791][704]MaterialEditorStats: MaxSampler: 248 instructions
+[2024.08.08-15.01.54:791][704]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.08-15.01.54:791][704]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.01.54:791][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.01.54:791][704]MaterialEditorStats: Shader Count: 16
+[2024.08.08-15.02.07:884][961]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.02.07:884][961]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.07:884][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.07:884][961]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.02.07:916][963]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.02.07:916][963]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.07:916][963]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.02.07:916][963]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.07:916][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.07:916][963]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.02.10:966][319]LogMaterialEditor: Saving and Compiling material 2k_uranus_Mat
+[2024.08.08-15.02.10:998][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.08.08-15.02.11:503][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.08.08-15.02.11:511][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.02.12:559][319]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_uranus_Mat
+[2024.08.08-15.02.12:559][319]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_uranus_MatACC773034A398F541D799580D129E635.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_uranus_Mat.uasset'
+[2024.08.08-15.02.12:564][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.05 sec (total: 29.1 sec)
+[2024.08.08-15.02.12:564][319]AssetCheck: New page: Asset Save: 2k_uranus_Mat
+[2024.08.08-15.02.12:565][319]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/2k_uranus_Mat.2k_uranus_Mat
+[2024.08.08-15.02.12:568][319]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.02.12:568][319]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.12:568][319]MaterialEditorStats: MaxSampler: 245 instructions
+[2024.08.08-15.02.12:568][319]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.08-15.02.12:568][319]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.12:568][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.12:568][319]MaterialEditorStats: Shader Count: 16
+[2024.08.08-15.02.16:826][611]LogEditorTransaction: Undo Material Editor: Delete
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.16:862][611]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.02.16:945][613]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.08-15.02.16:945][613]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.16:945][613]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.02.16:945][613]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.16:945][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.16:945][613]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.02.17:049][615]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.08.08-15.02.17:049][615]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.17:049][615]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.02.17:049][615]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.17:049][615]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.17:049][615]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.02.26:672][714]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.02.26:672][714]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.26:672][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.26:672][714]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.02.26:944][747]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.02.26:944][747]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.26:944][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.26:944][747]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.02.27:044][759]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.27:044][759]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.02.27:044][759]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.27:044][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.27:044][759]MaterialEditorStats: Shader Count: 3
+[2024.08.08-15.02.27:144][771]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.02.27:144][771]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.27:144][771]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.02.27:144][771]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.27:144][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.27:144][771]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.02.28:098][874]LogMaterialEditor: Saving and Compiling material 2k_uranus_Mat
+[2024.08.08-15.02.28:135][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.08.08-15.02.28:626][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.08.08-15.02.28:633][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.02.29:636][874]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_uranus_Mat
+[2024.08.08-15.02.29:637][874]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_uranus_Mat61A7853344A99ABB820D5FA7D4A3074F.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_uranus_Mat.uasset'
+[2024.08.08-15.02.29:640][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 30.1 sec)
+[2024.08.08-15.02.29:642][874]AssetCheck: New page: Asset Save: 2k_uranus_Mat
+[2024.08.08-15.02.29:642][874]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/2k_uranus_Mat.2k_uranus_Mat
+[2024.08.08-15.02.29:645][874]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.02.29:645][874]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.29:645][874]MaterialEditorStats: MaxSampler: 248 instructions
+[2024.08.08-15.02.29:645][874]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.08-15.02.29:646][874]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.29:646][874]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.29:646][874]MaterialEditorStats: Shader Count: 16
+[2024.08.08-15.02.35:522][375]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.02.35:522][375]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.35:522][375]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.35:522][375]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.02.35:769][405]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.02.35:769][405]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.35:769][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.35:769][405]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.02.35:869][417]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.35:869][417]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.08-15.02.35:869][417]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.35:869][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.35:869][417]MaterialEditorStats: Shader Count: 3
+[2024.08.08-15.02.35:969][429]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.02.35:969][429]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.35:969][429]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.02.35:969][429]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.35:969][429]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.35:969][429]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.02.36:959][529]LogMaterialEditor: Saving and Compiling material 2k_uranus_Mat
+[2024.08.08-15.02.37:005][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.08.08-15.02.37:626][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.08.08-15.02.37:633][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.02.38:559][529]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_uranus_Mat
+[2024.08.08-15.02.38:559][529]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_uranus_MatED6B05B14508AEE2BAFA2EA29DDCCE6D.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_uranus_Mat.uasset'
+[2024.08.08-15.02.38:564][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 930 ms (total: 31.0 sec)
+[2024.08.08-15.02.38:565][529]AssetCheck: New page: Asset Save: 2k_uranus_Mat
+[2024.08.08-15.02.38:565][529]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/2k_uranus_Mat.2k_uranus_Mat
+[2024.08.08-15.02.38:568][529]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.08.08-15.02.38:568][529]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.08.08-15.02.38:568][529]MaterialEditorStats: MaxSampler: 248 instructions
+[2024.08.08-15.02.38:568][529]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.08-15.02.38:568][529]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.08-15.02.38:568][529]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.08-15.02.38:568][529]MaterialEditorStats: Shader Count: 16
+[2024.08.08-15.02.48:496][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.02.48:569][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.08.08-15.02.48:574][128]LogSavePackage: Moving output files for package: /Game/aula1_sistema_solar
+[2024.08.08-15.02.48:574][128]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/aula1_sistema_solar76F725C243482A6BDD26EDB746B76CC3.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/aula1_sistema_solar.umap'
+[2024.08.08-15.02.48:579][128]LogFileHelpers: Saving map 'aula1_sistema_solar' took 0.032
+[2024.08.08-15.02.48:585][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 31.1 sec)
+[2024.08.08-15.02.48:585][128]AssetCheck: New page: Asset Save: aula1_sistema_solar
+[2024.08.08-15.02.48:585][128]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
+[2024.08.08-15.03.13:183][909]LogContentBrowser: Attempting asset rename: via_lactea -> urano_atmosfera
+[2024.08.08-15.03.13:204][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.03.13:267][909]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/urano_atmosfera
+[2024.08.08-15.03.13:267][909]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/urano_atmosfera26397D4B4B9DB502F212D6B13C3B221C.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/urano_atmosfera.uasset'
+[2024.08.08-15.03.13:275][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 31.2 sec)
+[2024.08.08-15.03.13:286][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.08.08-15.03.13:295][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.08.08-15.03.13:302][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.08.08-15.03.13:303][909]AssetCheck: New page: Asset Save: urano_atmosfera
+[2024.08.08-15.03.13:303][909]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/urano_atmosfera.urano_atmosfera
+[2024.08.08-15.03.15:409][  8]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/urano_atmosfera.urano_atmosfera
+[2024.08.08-15.03.15:412][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.08-15.03.15:412][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.08-15.03.15:513][  8]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.15:513][  8]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.15:513][  8]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.15:516][  8]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.08.08-15.03.15:561][ 10]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.08.08-15.03.15:561][ 10]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.08-15.03.15:561][ 10]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.08-15.03.15:561][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.15:561][ 10]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.03.16:402][ 86]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.16:402][ 86]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.16:403][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.16:403][ 86]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.03.21:409][613]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_6 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_6 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_6 or 5 other object(s)
+[2024.08.08-15.03.21:409][613]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionPower'MaterialGraphNode_6.MaterialExpressionPower_0'")'
+[2024.08.08-15.03.21:409][613]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_7 while ResolveName, will return /Engine/Transient.2k_sun_Mat:MaterialGraph_0.MaterialGraphNode_7 but could also be: /Engine/Transient.Material_001:MaterialGraph_0.MaterialGraphNode_7 or 5 other object(s)
+[2024.08.08-15.03.21:409][613]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFresnel'MaterialGraphNode_7.MaterialExpressionFresnel_0'")'
+[2024.08.08-15.03.21:416][613]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.21:416][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.21:416][613]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.21:437][615]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.08.08-15.03.21:437][615]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.08-15.03.21:437][615]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.08-15.03.21:437][615]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.21:437][615]MaterialEditorStats: Shader Count: 4
+[2024.08.08-15.03.26:624][210]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.26:624][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.26:624][210]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.26:669][213]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.26:669][213]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.26:669][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.26:669][213]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.03.28:170][376]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.28:170][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.28:170][376]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.28:809][444]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.28:809][444]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.28:809][444]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.28:809][444]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.03.29:878][561]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.29:878][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.29:878][561]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.30:343][601]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.08-15.03.30:343][601]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.30:343][601]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.03.30:472][611]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.30:472][611]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.30:472][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.30:472][611]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.03.34:386][ 66]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.34:386][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.34:386][ 66]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.34:406][ 68]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.34:406][ 68]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.34:406][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.34:406][ 68]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.03.35:141][151]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.35:141][151]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.35:141][151]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.35:562][200]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.08-15.03.35:562][200]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.35:562][200]MaterialEditorStats: Shader Count: 1
+[2024.08.08-15.03.35:662][212]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.35:662][212]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.35:662][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.35:662][212]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.03.36:680][318]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.36:680][318]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.36:680][318]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.36:728][321]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.36:728][321]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.36:728][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.36:728][321]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.03.40:148][712]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.40:148][712]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.40:148][712]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.40:660][768]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.40:660][768]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.40:660][768]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.40:660][768]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.03.41:898][909]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.08-15.03.41:904][909]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.08-15.03.41:904][909]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.41:904][909]MaterialEditorStats: Shader Count: 0
+[2024.08.08-15.03.41:955][912]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.41:955][912]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.41:955][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.41:955][912]MaterialEditorStats: Shader Count: 2
+[2024.08.08-15.03.43:875][135]LogMaterialEditor: Saving and Compiling material urano_atmosfera
+[2024.08.08-15.03.43:908][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.08.08-15.03.44:400][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.08.08-15.03.44:408][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.03.46:213][135]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/urano_atmosfera
+[2024.08.08-15.03.46:214][135]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/urano_atmosfera9B27D5D041B6B5445AF2ACBDDFF438A7.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/urano_atmosfera.uasset'
+[2024.08.08-15.03.46:217][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.80 sec (total: 33.0 sec)
+[2024.08.08-15.03.46:218][135]AssetCheck: New page: Asset Save: urano_atmosfera
+[2024.08.08-15.03.46:218][135]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/urano_atmosfera.urano_atmosfera
+[2024.08.08-15.03.46:219][135]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.08.08-15.03.46:219][135]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.08.08-15.03.46:219][135]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.08-15.03.46:219][135]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.08-15.03.46:219][135]MaterialEditorStats: Shader Count: 20
+[2024.08.08-15.04.00:958][110]LogEditorViewport: Clicking Background
+[2024.08.08-15.04.02:849][257]LogEditorViewport: Clicking Background
+[2024.08.08-15.04.03:171][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.04.03:276][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.08.08-15.04.03:280][276]LogSavePackage: Moving output files for package: /Game/aula1_sistema_solar
+[2024.08.08-15.04.03:280][276]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/aula1_sistema_solarCEDA02274339158E657CF0B1DADA5BF8.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/aula1_sistema_solar.umap'
+[2024.08.08-15.04.03:285][276]LogFileHelpers: Saving map 'aula1_sistema_solar' took 0.038
+[2024.08.08-15.04.03:290][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 33.1 sec)
+[2024.08.08-15.04.03:290][276]AssetCheck: New page: Asset Save: aula1_sistema_solar
+[2024.08.08-15.04.03:290][276]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
+[2024.08.08-15.04.13:019][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-15.04.13:124][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.08-15.04.13:128][817]LogSavePackage: Moving output files for package: /Game/aula1_sistema_solar
+[2024.08.08-15.04.13:128][817]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/aula1_sistema_solarD0F78ECC43A0F462D5654EA34949A2B2.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/aula1_sistema_solar.umap'
+[2024.08.08-15.04.13:133][817]LogFileHelpers: Saving map 'aula1_sistema_solar' took 0.034
+[2024.08.08-15.04.13:147][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 33.2 sec)
+[2024.08.08-15.04.13:148][817]AssetCheck: New page: Asset Save: aula1_sistema_solar
+[2024.08.08-15.04.13:148][817]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
