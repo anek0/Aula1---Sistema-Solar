@@ -1804,3 +1804,241 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.08-14.25.50:338][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.51 sec)
 [2024.08.08-14.25.50:339][239]AssetCheck: New page: Asset Save: aula1_sistema_solar
 [2024.08.08-14.25.50:339][239]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
+[2024.08.08-14.27.09:155][861]LogTexture: Display: Building textures: /Game/StarterContent/Materials/2k_saturn.2k_saturn (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2024.08.08-14.27.09:329][871]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.08.08-14.27.14:546][170]LogTexture: Display: Building textures: /Game/StarterContent/Materials/2k_uranus.2k_uranus (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2024.08.08-14.27.24:881][913]LogTexture: Display: Building textures: /Game/StarterContent/Materials/2k_neptune.2k_neptune (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2024.08.08-14.27.27:440][104]LogEditorViewport: Clicking Background
+[2024.08.08-14.27.54:021][327]LogInterchangeEngine: [Pending] Importing
+[2024.08.08-14.27.54:021][327]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ra00340661/Downloads/2k_stars_milky_way.jpg]
+[2024.08.08-14.27.54:048][328]LogInterchangeImport: JPEG file [C:/Users/ra00340661/Downloads/2k_stars_milky_way.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.08.08-14.27.54:050][328]LogInterchangeEngine: [Pending] Importing
+[2024.08.08-14.27.54:059][328]LogInterchangeEngine: [Success] Import Done
+[2024.08.08-14.27.54:066][328]LogTexture: Display: Building textures: /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2024.08.08-14.27.54:116][329]LogInterchangeEngine: [Success] Import Done
+[2024.08.08-14.28.17:704][606]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.28.17:768][606]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2024.08.08-14.28.29:169][ 48]LogTexture: Display: Building textures: /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Final
+[2024.08.08-14.29.10:767][ 84]LogTexture: Display: Building textures: /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Final
+[2024.08.08-14.29.22:197][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.22:237][319]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.22:237][319]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_wayD45C058142C193E0F91873B428FB80CF.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.22:242][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 2.56 sec)
+[2024.08.08-14.29.22:243][319]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.22:243][319]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.23:637][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.23:685][480]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.23:685][480]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_wayC3B03D9648B94804EA1F38A5E6B9C795.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.23:689][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 2.61 sec)
+[2024.08.08-14.29.23:690][480]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.23:690][480]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.23:828][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.23:885][497]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.23:885][497]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way7FF2D5174C6D157009FB76944A996B85.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.23:889][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.67 sec)
+[2024.08.08-14.29.23:890][497]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.23:890][497]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.24:003][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.24:035][511]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.24:035][511]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way7B6A21EB4739BCC0496D5893E6990C6B.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.24:039][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 2.71 sec)
+[2024.08.08-14.29.24:040][511]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.24:040][511]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.25:853][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.25:901][723]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.25:902][723]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way212636674558D63CC15378A84B4BF0F8.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.25:906][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 2.76 sec)
+[2024.08.08-14.29.25:907][723]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.25:907][723]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.33:104][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.33:135][955]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.33:135][955]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way2488A3754C8688B4E0746A88D6BB2231.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.33:139][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 2.79 sec)
+[2024.08.08-14.29.33:141][955]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.33:141][955]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.33:270][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.33:318][971]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.33:318][971]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way1A06D6DC4C7422AEDF60058B8E8EF308.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.33:322][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 2.85 sec)
+[2024.08.08-14.29.33:323][971]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.33:323][971]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.33:436][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.33:484][985]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.33:484][985]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_wayC5E025014D8CF89869B5C799359474B0.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.33:488][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 2.90 sec)
+[2024.08.08-14.29.33:489][985]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.33:489][985]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.33:586][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.33:635][997]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.33:635][997]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_wayFF430ED8457F2EC4AA09A3AA458F72F5.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.33:639][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 2.95 sec)
+[2024.08.08-14.29.33:640][997]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.33:640][997]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.33:736][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.33:768][  9]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.33:768][  9]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way52B0D9234CFD231371EC549BDFBE6A04.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.33:772][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 2.99 sec)
+[2024.08.08-14.29.33:774][  9]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.33:774][  9]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.33:912][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.33:971][ 26]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.33:972][ 26]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way17F5771E4958655508F2C5A77C98724B.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.33:977][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 3.05 sec)
+[2024.08.08-14.29.33:978][ 26]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.33:978][ 26]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.34:108][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.34:152][ 42]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.34:152][ 42]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way8C690E4F4575864800C793B238ADD118.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.34:156][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 3.10 sec)
+[2024.08.08-14.29.34:157][ 42]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.34:157][ 42]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.34:270][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.34:300][ 56]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.34:301][ 56]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way6A3C486844E82322F69538B30C5BB457.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.34:304][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 3.13 sec)
+[2024.08.08-14.29.34:306][ 56]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.34:306][ 56]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.34:445][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.34:502][ 73]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.34:503][ 73]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_way3A6F6D35448D4C605DBAE9A2BBD734B3.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.34:508][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 3.20 sec)
+[2024.08.08-14.29.34:508][ 73]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.34:508][ 73]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.34:606][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.29.34:651][ 85]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/2k_stars_milky_way
+[2024.08.08-14.29.34:651][ 85]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_stars_milky_wayF409DFED4DD9EB5EEC8CA3B1DF1CB45A.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/2k_stars_milky_way.uasset'
+[2024.08.08-14.29.34:656][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 3.25 sec)
+[2024.08.08-14.29.34:657][ 85]AssetCheck: New page: Asset Save: 2k_stars_milky_way
+[2024.08.08-14.29.34:657][ 85]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Materials/2k_stars_milky_way.2k_stars_milky_way
+[2024.08.08-14.29.36:396][291]LogViewport: Scene viewport resized to 1424x886, mode Windowed.
+[2024.08.08-14.29.48:704][ 42]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.08.08-14.29.48:708][ 42]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.08.08-14.29.48:715][ 43]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.08.08-14.29.59:300][901]LogContentBrowser: Attempting asset rename: NewMaterial -> via_lactea
+[2024.08.08-14.29.59:302][901]LogContentBrowser: End creating deferred item NewMaterial
+[2024.08.08-14.30.26:370][376]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.08.08-14.30.26:376][376]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.08.08-14.30.26:381][376]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.08.08-14.30.26:389][377]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.08.08-14.30.31:417][422]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.08.08-14.30.31:435][422]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.08.08-14.30.39:132][  5]LogContentBrowser: Attempting asset rename: NewBlueprint -> espaço
+[2024.08.08-14.30.39:173][  5]LogMetaData: Removing '/Game/StarterContent/Materials/espaço.espaço:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Materials/NewBlueprint.PackageMetaData'
+[2024.08.08-14.30.39:173][  5]LogMetaData: Removing '/Game/StarterContent/Materials/espaço.SKEL_espaço_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Materials/NewBlueprint.PackageMetaData'
+[2024.08.08-14.30.39:173][  5]LogMetaData: Removing '/Game/StarterContent/Materials/espaço.SKEL_espaço_C' ref from Metadata '/Game/StarterContent/Materials/NewBlueprint.PackageMetaData'
+[2024.08.08-14.30.39:173][  5]LogMetaData: Removing '/Game/StarterContent/Materials/espaço.espaço_C' ref from Metadata '/Game/StarterContent/Materials/NewBlueprint.PackageMetaData'
+[2024.08.08-14.30.39:173][  5]LogMetaData: Removing '/Game/StarterContent/Materials/espaço.espaço:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/Materials/NewBlueprint.PackageMetaData'
+[2024.08.08-14.30.39:173][  5]LogMetaData: Removing '/Game/StarterContent/Materials/espaço.espaço:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/Materials/NewBlueprint.PackageMetaData'
+[2024.08.08-14.30.39:173][  5]LogMetaData: Removing '/Game/StarterContent/Materials/espaço.espaço:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/Materials/NewBlueprint.PackageMetaData'
+[2024.08.08-14.30.39:176][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.30.39:245][  5]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/espaço
+[2024.08.08-14.30.39:245][  5]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/espaço1DA80B12406697DC14FE61B048E628CD.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/StarterContent/Materials/espaço.uasset'
+[2024.08.08-14.30.39:255][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 3.32 sec)
+[2024.08.08-14.30.39:270][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.08.08-14.30.39:273][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.08.08-14.30.39:275][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.08.08-14.30.39:275][  5]AssetCheck: New page: Asset Save: espaço
+[2024.08.08-14.30.39:275][  5]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Materials/espaço.espaço
+[2024.08.08-14.30.57:274][277]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Materials/espaço.espaço
+[2024.08.08-14.30.57:275][277]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.08-14.30.57:275][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.08-14.30.57:297][277]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.08.08-14.30.57:818][277]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.08.08-14.31.18:430][548]Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/aula1_sistema_solar.uproject" -game -rocket -progress
+[2024.08.08-14.31.18:535][548]Using bundled DotNet SDK version: 6.0.302
+[2024.08.08-14.31.18:535][548]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/aula1_sistema_solar.uproject" -game -rocket -progress
+[2024.08.08-14.31.18:937][548]Log file: C:\Users\ra00340661\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.08.08-14.31.19:139][548]
+[2024.08.08-14.31.19:139][548]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2024.08.08-14.31.19:139][548]See the log file for detailed information
+[2024.08.08-14.31.19:139][548]
+[2024.08.08-14.31.19:139][548]
+[2024.08.08-14.31.19:139][548]Generating VisualStudio project files:
+[2024.08.08-14.31.19:240][548]Discovering modules, targets and source code for project...
+[2024.08.08-14.31.19:240][548]Visual Studio 2019 does not support .NET 6.0 C# projects, these projects will not be added to the generated solution.
+[2024.08.08-14.31.19:240][548]Please generate the Visual Studio 2022 solution if .NET 6.0 C# project support is required.
+[2024.08.08-14.31.19:542][548]Microsoft platform targets must be compiled with Visual Studio 2022 17.4 (MSVC 14.34.x) or later for the installed engine. Please update Visual Studio 2022 and ensure no configuration is forcing WindowsTargetRules.Compiler to VisualStudio2019. The current compiler version was detected as: 14.29.30148
+[2024.08.08-14.31.22:881][548]LogSlate: Window 'Message' being destroyed
+[2024.08.08-14.31.22:886][548]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'NewStaticMeshComponent', however you must recompile the 'aula1_sistema_solar' module before it will appear in the Content Browser. Failed to generate project files.
+
+Would you like to open the Output Log to see more details?
+[2024.08.08-14.31.23:008][548]LogSlate: Window 'Add C++ Component' being destroyed
+[2024.08.08-14.31.23:015][548]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/aula1_sistema_solar.NewStaticMeshComponent'
+[2024.08.08-14.31.24:451][690]LogSlate: Window 'Output Log' being destroyed
+[2024.08.08-14.31.24:454][690]LogSlate: Window 'Output Log' being destroyed
+[2024.08.08-14.31.38:328][993]LogSlate: Window 'Add C++ Component' being destroyed
+[2024.08.08-14.31.38:335][993]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2024.08.08-14.32.01:065][307]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.08-14.33.32:383][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.08-14.33.36:265][862]LogEditorTransaction: Undo Edit Static Mesh
+[2024.08.08-14.34.23:469][557]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.08-14.35.50:549][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.08.08-14.35.50:553][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/aula1_sistema_solar_Auto1
+[2024.08.08-14.35.50:553][152]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/aula1_sistema_solar_Auto12C893FD04FB5FECDEC226FA4E54F3B49.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/Autosaves/Game/aula1_sistema_solar_Auto1.umap'
+[2024.08.08-14.35.50:554][152]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/Autosaves/Game/aula1_sistema_solar_Auto1.umap is in the /Temp path, will not scan.
+[2024.08.08-14.35.50:554][152]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/aula1_sistema_solar_Auto1 is in the /Temp path, will not scan.
+[2024.08.08-14.35.50:554][152]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/aula1_sistema_solar_Auto1 is in the /Temp path, will not scan.
+[2024.08.08-14.35.50:554][152]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/aula1_sistema_solar' took 0.018
+[2024.08.08-14.35.50:554][152]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2024.08.08-14.35.50:554][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/2k_saturn_Mat] ([1] browsable assets)...
+[2024.08.08-14.35.50:665][152]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/2k_saturn_Mat.2k_saturn_Mat]
+[2024.08.08-14.35.50:665][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/2k_saturn_Mat]
+[2024.08.08-14.35.50:667][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/2k_saturn_Mat_Auto1
+[2024.08.08-14.35.50:667][152]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_saturn_Mat_Auto132FA8FBC4A6FA617A17D9C8204B8F4E5.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/Autosaves/Game/StarterContent/Materials/2k_saturn_Mat_Auto1.uasset'
+[2024.08.08-14.35.50:668][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/2k_uranus_Mat] ([1] browsable assets)...
+[2024.08.08-14.35.50:699][152]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/2k_uranus_Mat.2k_uranus_Mat]
+[2024.08.08-14.35.50:699][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/2k_uranus_Mat]
+[2024.08.08-14.35.50:700][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/2k_uranus_Mat_Auto1
+[2024.08.08-14.35.50:700][152]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_uranus_Mat_Auto14E499A8F4AC46C64CCA77193F2CE6ABB.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/Autosaves/Game/StarterContent/Materials/2k_uranus_Mat_Auto1.uasset'
+[2024.08.08-14.35.50:701][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/2k_neptune_Mat] ([1] browsable assets)...
+[2024.08.08-14.35.50:726][152]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/2k_neptune_Mat.2k_neptune_Mat]
+[2024.08.08-14.35.50:726][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/2k_neptune_Mat]
+[2024.08.08-14.35.50:727][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/2k_neptune_Mat_Auto1
+[2024.08.08-14.35.50:727][152]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/2k_neptune_Mat_Auto14491EF594B851D77DB5D04BEF410D290.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/Autosaves/Game/StarterContent/Materials/2k_neptune_Mat_Auto1.uasset'
+[2024.08.08-14.35.50:728][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/via_lactea] ([1] browsable assets)...
+[2024.08.08-14.35.50:752][152]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/via_lactea.via_lactea]
+[2024.08.08-14.35.50:752][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/via_lactea]
+[2024.08.08-14.35.50:754][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/via_lactea_Auto1
+[2024.08.08-14.35.50:754][152]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/via_lactea_Auto102D38CF34B8CDCD6D29ED4844E101674.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/Autosaves/Game/StarterContent/Materials/via_lactea_Auto1.uasset'
+[2024.08.08-14.35.50:754][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/espaço] ([2] browsable assets)...
+[2024.08.08-14.35.50:754][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/espaço]
+[2024.08.08-14.35.50:756][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/espaço_Auto1
+[2024.08.08-14.35.50:756][152]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/espaço_Auto1BFA76A8947F6222BA26577B792A2D987.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/Autosaves/Game/StarterContent/Materials/espaço_Auto1.uasset'
+[2024.08.08-14.35.50:757][152]LogFileHelpers: Auto-saving content packages took 0.203
+[2024.08.08-14.36.08:939][455]LogEditorViewport: Clicking Background
+[2024.08.08-14.36.10:239][532]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.08.08-14.36.10:807][588]LogEditorViewport: Clicking Background
+[2024.08.08-14.37.23:658][282]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.08.08-14.37.30:345][674]Cmd: EDIT COPY
+[2024.08.08-14.37.30:547][686]Cmd: EDIT PASTE
+[2024.08.08-14.37.38:813][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.37.38:893][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.08.08-14.37.38:897][171]LogSavePackage: Moving output files for package: /Game/aula1_sistema_solar
+[2024.08.08-14.37.38:897][171]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/aula1_sistema_solar3BACC67A4037634DCBE5DB967677D41F.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/aula1_sistema_solar.umap'
+[2024.08.08-14.37.38:902][171]LogFileHelpers: Saving map 'aula1_sistema_solar' took 0.038
+[2024.08.08-14.37.38:907][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 3.42 sec)
+[2024.08.08-14.37.38:908][171]AssetCheck: New page: Asset Save: aula1_sistema_solar
+[2024.08.08-14.37.38:908][171]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
+[2024.08.08-14.38.01:214][567]LogEditorViewport: Clicking Background
+[2024.08.08-14.38.07:861][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.38.07:962][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.08.08-14.38.07:966][979]LogSavePackage: Moving output files for package: /Game/aula1_sistema_solar
+[2024.08.08-14.38.07:966][979]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/aula1_sistema_solarB2BC0C254D8F23BA040AD7B3A1D872DB.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/aula1_sistema_solar.umap'
+[2024.08.08-14.38.07:971][979]LogFileHelpers: Saving map 'aula1_sistema_solar' took 0.037
+[2024.08.08-14.38.07:985][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 3.54 sec)
+[2024.08.08-14.38.07:986][979]AssetCheck: New page: Asset Save: aula1_sistema_solar
+[2024.08.08-14.38.07:986][979]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
+[2024.08.08-14.38.19:979][539]LogEditorViewport: Clicking Background
+[2024.08.08-14.39.15:467][352]Cmd: EDIT COPY
+[2024.08.08-14.39.15:646][363]Cmd: EDIT PASTE
+[2024.08.08-14.39.42:412][566]Cmd: EDIT COPY
+[2024.08.08-14.39.42:803][590]Cmd: EDIT PASTE
+[2024.08.08-14.40.42:600][534]LogEditorViewport: Clicking Background
+[2024.08.08-14.40.44:997][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-14.40.45:096][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.08.08-14.40.45:102][710]LogSavePackage: Moving output files for package: /Game/aula1_sistema_solar
+[2024.08.08-14.40.45:102][710]LogSavePackage: Moving '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Saved/aula1_sistema_solar50DAAD544174C39180F09080A5B42310.tmp' to '../../../../../../Users/ra00340661/Documents/GitHub/Aula1---Sistema-Solar/aula1_sistema_solar/Content/aula1_sistema_solar.umap'
+[2024.08.08-14.40.45:107][710]LogFileHelpers: Saving map 'aula1_sistema_solar' took 0.041
+[2024.08.08-14.40.45:121][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 3.67 sec)
+[2024.08.08-14.40.45:122][710]AssetCheck: New page: Asset Save: aula1_sistema_solar
+[2024.08.08-14.40.45:122][710]LogContentValidation: Display: Validating /Script/Engine.World /Game/aula1_sistema_solar.aula1_sistema_solar
