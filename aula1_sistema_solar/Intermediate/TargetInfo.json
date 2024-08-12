@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "aula1_sistema_solar",
+			"Path": "..\\Source\\aula1_sistema_solar.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "aula1_sistema_solarEditor",
+			"Path": "..\\Source\\aula1_sistema_solarEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
